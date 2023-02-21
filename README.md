@@ -10,9 +10,9 @@ The data was obtained using the NBA API, which is a Python package that provides
 
 The project consists of the following files:
 
-**nba_sm.ipynb:** This is the colaboratory notebook file that contains the data analytics code. \n
-**nba_sm.py** This is the python file if someone wants to run it in different ide. \n
-**README.md:** This file, which provides an overview of the project. \n
+**nba_sm.ipynb:** This is the colaboratory notebook file that contains the data analytics code. /n
+**nba_sm.py** This is the python file if someone wants to run it in different ide. /n
+**README.md:** This file, which provides an overview of the project. /n
 The Colaboratory notebook file includes the following sections:
 
 _Data Extraction:_ This section explains how the data was extracted using the NBA API (https://stats.nba.com/stats/leagueLeaders?LeagueID=00&PerMode=PerGame&Scope=S&Season=2011-12&SeasonType=Regular%20Season&StatCategory=PTS).
