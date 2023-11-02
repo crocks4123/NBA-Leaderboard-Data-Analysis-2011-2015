@@ -42,8 +42,4 @@ pip install pandas numpy matplotlib seaborn
 
 To run the Colaboratory / Jupyter notebook file, you can open it using Jupyter Notebook or JupyterLab or Google Colaboratory. You can then run each cell of the notebook to execute the code.
 
-## Credits
 
-NBA API for providing the NBA data.
-(https://stats.nba.com/stats/leagueLeaders?LeagueID=00&PerMode=PerGame&Scope=S&Season=2011-12&SeasonType=Regular%20Season&StatCategory=PTS)
-(https://stats.nba.com/stats/leagueLeaders?LeagueID=00&PerMode=PerGame&Scope=S&Season=2015-16&SeasonType=Regular%20Season&StatCategory=PTS)
